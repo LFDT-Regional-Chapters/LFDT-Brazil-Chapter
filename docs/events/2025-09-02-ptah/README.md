@@ -18,7 +18,7 @@ Durante o evento, os palestrantes detalharam como o Ptah surgiu da experiência 
 ## Materiais do evento
 - [Gravação no YouTube](https://www.youtube.com/live/JuVM0tLGdSY)  
 - [Slides (PDF)](./slides.pdf)  
-- [Artigo (PDF)](./artigo.pdf)  
+- [Artigo (PDF)](./RTMN_BBCHAIN_JOAO_FOR_DREX-final-final.pdf)  
 
 ## Público-alvo
 Profissionais de tecnologia, pesquisadores, estudantes, desenvolvedores e entusiastas de blockchain, segurança da informação e tecnologias emergentes.  
