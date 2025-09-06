@@ -17,7 +17,8 @@ Durante o evento, os palestrantes detalharam como o Ptah surgiu da experiência 
 
 ## Materiais do evento
 - [Gravação no YouTube](https://www.youtube.com/live/JuVM0tLGdSY)  
-- [Slides (PDF)](./slides.pdf)  
+- [Slides (PDF)](./slides.pdf)
+- ./BBChain-PROJECT-PTAH-Comercial-Small-Eng-FULL-v1.pdf
 - [Artigo (PDF)](./RTMN_BBCHAIN_JOAO_FOR_DREX-final-final.pdf)  
 
 ## Público-alvo
