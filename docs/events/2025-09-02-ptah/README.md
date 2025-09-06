@@ -20,12 +20,6 @@ Durante o evento, os palestrantes detalharam como o Ptah surgiu da experiência 
 - [Slides (PDF)](./BBChain-PROJECT-PTAH-Comercial-Small-Eng-FULL-v1.pdf)
 - [Artigo (PDF)](./RTMN_BBCHAIN_JOAO_FOR_DREX-final-final.pdf)  
 
-## Público-alvo
-Profissionais de tecnologia, pesquisadores, estudantes, desenvolvedores e entusiastas de blockchain, segurança da informação e tecnologias emergentes.  
-
-## Organização
-Este evento foi organizado pela comunidade do **Capítulo Brasil da Linux Foundation Decentralized Trust (LFDT)**, como parte das iniciativas para aproximar o ecossistema brasileiro das discussões globais sobre blockchain, tokenização de ativos, identidade digital e moedas digitais de bancos centrais (CBDCs).
-
 ## Galeria de imagens
 <p float="left">
   <a href="./pic1.png" target="_blank"><img src="./pic1.png" width="200"/></a>
@@ -33,3 +27,9 @@ Este evento foi organizado pela comunidade do **Capítulo Brasil da Linux Founda
   <a href="./pic3.png" target="_blank"><img src="./pic3.png" width="200"/></a>
   <a href="./pic4.png" target="_blank"><img src="./pic4.png" width="200"/></a>
 </p>
+
+## Público-alvo
+Profissionais de tecnologia, pesquisadores, estudantes, desenvolvedores e entusiastas de blockchain, segurança da informação e tecnologias emergentes.  
+
+## Organização
+Este evento foi organizado pela comunidade do **Capítulo Brasil da Linux Foundation Decentralized Trust (LFDT)**, como parte das iniciativas para aproximar o ecossistema brasileiro das discussões globais sobre blockchain, tokenização de ativos, identidade digital e moedas digitais de bancos centrais (CBDCs).
