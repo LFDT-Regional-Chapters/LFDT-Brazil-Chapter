@@ -25,3 +25,11 @@ Profissionais de tecnologia, pesquisadores, estudantes, desenvolvedores e entusi
 
 ## Organização
 Este evento foi organizado pela comunidade do **Capítulo Brasil da Linux Foundation Decentralized Trust (LFDT)**, como parte das iniciativas para aproximar o ecossistema brasileiro das discussões globais sobre blockchain, tokenização de ativos, identidade digital e moedas digitais de bancos centrais (CBDCs).
+
+## Galeria de imagens
+<p float="left">
+  <a href="./pic1.png" target="_blank"><img src="./pic1.png" width="200"/></a>
+  <a href="./pic2.png" target="_blank"><img src="./pic2.png" width="200"/></a>
+  <a href="./pic3.png" target="_blank"><img src="./pic3.png" width="200"/></a>
+  <a href="./pic4.png" target="_blank"><img src="./pic4.png" width="200"/></a>
+</p>
