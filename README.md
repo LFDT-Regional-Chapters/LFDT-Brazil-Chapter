@@ -1,5 +1,7 @@
 # Linux Foundation Decentralized Trust (LFDT) - Capítulo Brasil
 
+![Logo do Capítulo Brasil da LFDT](docs/images/LFDT_BR_Chapter_Logo.png)
+
 Bem-vindo ao repositório oficial do **Capítulo Brasil da Linux Foundation Decentralized Trust (LFDT)**.  
 Este espaço tem como objetivo organizar, documentar e compartilhar as iniciativas da comunidade brasileira em torno de blockchain, identidade digital, tokenização de ativos e tecnologias descentralizadas.
 
