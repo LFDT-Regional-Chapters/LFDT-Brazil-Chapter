@@ -3,7 +3,7 @@
 ## 2024
 
 28 de fevereiro de 2024
-- [Mercado de Trabalho em Blockchain](/Under_Construction.md)
+- [Mercado de Trabalho em Blockchain](../Under_Construction.md)
 
 28 de março de 2024
 - [Mulheres em Blockchain](/Under_Construction.md)
