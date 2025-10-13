@@ -5,6 +5,9 @@
 Bem-vindo ao repositório oficial do **Capítulo Brasil da Linux Foundation Decentralized Trust (LFDT)**.  
 Este espaço tem como objetivo organizar, documentar e compartilhar as iniciativas da comunidade brasileira em torno de blockchain, identidade digital, tokenização de ativos e tecnologias descentralizadas.
 
+Estamos em processo de migração da [plataforma antiga](https://lf-hyperledger.atlassian.net/wiki/spaces/CP/pages/17432619/Linux+Foundation+Decentralized+Trust+-+Brazil+Chapter+Cap+tulo+Brasil) para este novo espaço.
+
+
 ## Sobre a LFDT
 A **Linux Foundation Decentralized Trust (LFDT)** é a evolução da Hyperledger Foundation, atuando globalmente para promover ecossistemas abertos, confiáveis e interoperáveis de tecnologias descentralizadas.
 
